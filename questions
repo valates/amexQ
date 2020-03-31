@@ -1,0 +1,12 @@
+Element compounds:
+
+Assume we receive a compound as its element string, e.g. Carbon Dioxide whose chemical notation is CO2 comes in as the string C1O2 where each element is followed by the number of atoms of that element. 
+
+1) Write a class that takes in a string compound and stores a count of how many of each element exist. You may assume the input string is proper and all elements in it are actual elements.
+
+2) Write a method, atomCount(), that returns the number of atoms for the specified element string. 
+
+You only need to support the following elements for the sake of brevity: 
+Hydrogen (H): 1
+Helium (He): 2
+Carbon (C): 6
