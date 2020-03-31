@@ -10,3 +10,19 @@ You only need to support the following elements for the sake of brevity:
 Hydrogen (H): 1
 Helium (He): 2
 Carbon (C): 6
+
+
+
+Ethics:
+
+We are classifying social groups based on 8 classifications:
+xenophobic or xenophilic
+materialistic or spiritualistic
+militaristic or pacifistic
+authoritarian or egalitarian
+
+The above list has ethics paired off based on ones that contradict each other. A group cannot be xenophobic AND xenophilic for example. 
+
+A group can be classified with any 1 to 3 of these classifiers.
+
+Write a script that takes the above 8 classification strings and prints all unique classifier strings to console. Do not concern yourself with memory usage. "xenophobic,materialistic,militaristic" and "materialistic,xenophobic,militaristic" are considered the same string and one of them (does not matter which) should not be produced in the final output.
